@@ -1,0 +1,52 @@
+{
+  "AppsPromote": [
+    {
+      "name": "Uzmir va Mira - qo'shiqlar",
+      "packageName": "com.rizanova.qoshiqlar.uzmirmira",
+      "icon": "https://play-lh.googleusercontent.com/qk-QV8EHSriETMiBRpXujKH9HE1djBVly6zlg9rr6GjrYLxTZdqyicTQR1PMGtTXTUg=s512",
+      "preview": "https://play-lh.googleusercontent.com/PHiec6TZm7JoE38C8IrA1G74W3uy2IF2uHLQ6nXtzPFQ9-ka1-UUeZjUBLSRhc7duA=w7680-h4320",
+      "shortDescription": "Play Music !",
+      "screenShot": [
+        "https://play-lh.googleusercontent.com/u_DhbvUsnebQJigK_Gwx6lusVEQr9kPGUJE5nWhpsYmYNIJf0KSJ4lTcEHZeTqlFvi8=w1052-h592",
+        "https://play-lh.googleusercontent.com/LKUWiph1S2U_ANVJ90e6cDftykJFy61lqJfqkbpOWLCWaHbFHHYaUWjZmvuhsGHXeT_8=w1052-h592",
+        "https://play-lh.googleusercontent.com/wdITYjFbR5wBv_Rfp2juHSwjNSah4Pn2fV7UkV69QqZEiAtJwUrOc48dTWCWh5bjz5k=w1052-h592"
+      ]
+    },
+    {
+      "name": "Ozoda Qo'shiqlari",
+      "packageName": "com.rizanova.qoshiqlar.ozodajichna",
+      "icon": "https://play-lh.googleusercontent.com/qk-QV8EHSriETMiBRpXujKH9HE1djBVly6zlg9rr6GjrYLxTZdqyicTQR1PMGtTXTUg=s512",
+      "preview": "https://play-lh.googleusercontent.com/PHiec6TZm7JoE38C8IrA1G74W3uy2IF2uHLQ6nXtzPFQ9-ka1-UUeZjUBLSRhc7duA=w7680-h4320",
+      "shortDescription": "Play Music !",
+      "screenShot": [
+        "https://play-lh.googleusercontent.com/u_DhbvUsnebQJigK_Gwx6lusVEQr9kPGUJE5nWhpsYmYNIJf0KSJ4lTcEHZeTqlFvi8=w1052-h592",
+        "https://play-lh.googleusercontent.com/LKUWiph1S2U_ANVJ90e6cDftykJFy61lqJfqkbpOWLCWaHbFHHYaUWjZmvuhsGHXeT_8=w1052-h592",
+        "https://play-lh.googleusercontent.com/wdITYjFbR5wBv_Rfp2juHSwjNSah4Pn2fV7UkV69QqZEiAtJwUrOc48dTWCWh5bjz5k=w1052-h592"
+      ]
+    },
+    {
+      "name": "Manoli qo'shiqlar to'plami",
+      "packageName": "com.rizanova.qoshiqlar.jaloliddine",
+      "icon": "https://play-lh.googleusercontent.com/qk-QV8EHSriETMiBRpXujKH9HE1djBVly6zlg9rr6GjrYLxTZdqyicTQR1PMGtTXTUg=s512",
+      "preview": "https://play-lh.googleusercontent.com/PHiec6TZm7JoE38C8IrA1G74W3uy2IF2uHLQ6nXtzPFQ9-ka1-UUeZjUBLSRhc7duA=w7680-h4320",
+      "shortDescription": "Play Music !",
+      "screenShot": [
+        "https://play-lh.googleusercontent.com/u_DhbvUsnebQJigK_Gwx6lusVEQr9kPGUJE5nWhpsYmYNIJf0KSJ4lTcEHZeTqlFvi8=w1052-h592",
+        "https://play-lh.googleusercontent.com/LKUWiph1S2U_ANVJ90e6cDftykJFy61lqJfqkbpOWLCWaHbFHHYaUWjZmvuhsGHXeT_8=w1052-h592",
+        "https://play-lh.googleusercontent.com/wdITYjFbR5wBv_Rfp2juHSwjNSah4Pn2fV7UkV69QqZEiAtJwUrOc48dTWCWh5bjz5k=w1052-h592"
+		 ]
+    },
+    {
+      "name": "Rasulov barcha qo'shiqlari",
+      "packageName": "com.rizanova.qoshiqlar.xurshid",
+      "icon": "https://play-lh.googleusercontent.com/qk-QV8EHSriETMiBRpXujKH9HE1djBVly6zlg9rr6GjrYLxTZdqyicTQR1PMGtTXTUg=s512",
+      "preview": "https://play-lh.googleusercontent.com/PHiec6TZm7JoE38C8IrA1G74W3uy2IF2uHLQ6nXtzPFQ9-ka1-UUeZjUBLSRhc7duA=w7680-h4320",
+      "shortDescription": "Play Music !",
+      "screenShot": [
+        "https://play-lh.googleusercontent.com/u_DhbvUsnebQJigK_Gwx6lusVEQr9kPGUJE5nWhpsYmYNIJf0KSJ4lTcEHZeTqlFvi8=w1052-h592",
+        "https://play-lh.googleusercontent.com/LKUWiph1S2U_ANVJ90e6cDftykJFy61lqJfqkbpOWLCWaHbFHHYaUWjZmvuhsGHXeT_8=w1052-h592",
+        "https://play-lh.googleusercontent.com/wdITYjFbR5wBv_Rfp2juHSwjNSah4Pn2fV7UkV69QqZEiAtJwUrOc48dTWCWh5bjz5k=w1052-h592"
+      ]
+    }
+  ]
+}
